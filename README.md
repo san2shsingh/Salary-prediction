@@ -5,4 +5,4 @@ Python package: flask, pandas, sklearn, numpy, pickle
 
 ML Algoritham : Linear Regression
 
-Once run application.py
+Once run application.py, please click on the link http://127.0.0.1:5000/
