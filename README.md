@@ -1,5 +1,5 @@
 # Deploying ML Model using Flask
-This is a simple project to elaborate how to deploy a Machine Learning model using Flask API.
+This is a simple project to predict salary while hiring an employee using input "Year of Experience, Test Rating and Interview score".
 
 Python package: flask, pandas, sklearn, numpy, pickle 
 
